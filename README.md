@@ -5,7 +5,6 @@ An AI/ML web app that predicts house prices based on size, bedrooms, and age.
 ## 🔗 Live App
 **[Click Here to Use the App](https://your-streamlit-link-here.streamlit.app/)**
 
-*(Copy your house price predictor Streamlit link and replace the URL above)*
 
 ## What It Does
 - Enter house details (size in sq ft, number of bedrooms, age in years)
